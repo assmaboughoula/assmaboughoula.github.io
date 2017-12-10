@@ -1,0 +1,145 @@
+source,target,value
+link analysis,hits algorithm,1.010409606
+search engines,web crawling,0.863757498
+vector space model,bit vector,0.840405118
+search engines,mapreduce framework,0.810484844
+retrieval model,probability ranking principle,0.786419753
+ranking function,vector space model,0.773443939
+search engines,inverted index,0.769166259
+average precision,reciprocal rank,0.76572856
+pagerank,hits algorithm,0.761054504
+inverted index,google file system,0.758878256
+relevant information,statistical significance,0.758348794
+retrieval model,evaluation methodology,0.758146431
+mean average precision,discounted cumulative gain,0.754480933
+language models,maximum likelihood estimate,0.75290733
+anchor text,hits algorithm,0.749273784
+search engines,information filtering,0.748570918
+mapreduce framework,google file system,0.748466811
+relevant information,probability ranking principle,0.747671376
+relevant information,precision recall,0.746519322
+retrieval model,conditional probability,0.742433862
+collaborative filtering algorithm,cold start,0.742129376
+relevant information,discounted cumulative gain,0.740911749
+retrieval model,ranking problem,0.740660574
+search engines,probability ranking principle,0.739998979
+relevant information,ranking problem,0.739807811
+language models,kullback leibler divergence,0.738941599
+retrieval model,statistical significance,0.738896906
+mean average precision,reciprocal rank,0.738545294
+querying,kullback leibler divergence,0.731783962
+ranking function,statistical significance,0.731229667
+relevant information,average precision,0.730275016
+search engines,link analysis,0.727229326
+search engines,information access,0.726178662
+retrieval model,test collection,0.725860301
+inverted index,mapreduce framework,0.725344667
+ranking function,hits algorithm,0.724283923
+relevant information,evaluation methodology,0.722477691
+search engines,google file system,0.722329809
+probabilistic retrieval,conditional probability,0.720987654
+retrieval model,relevance judgments,0.720017637
+retrieval model,machine learning,0.719858907
+querying,smoothing methods,0.719658069
+inverted index,web crawling,0.717364841
+querying,maximum likelihood estimate,0.715226982
+mean average precision,google file system,0.714042263
+retrieval model,learning algorithm,0.713932981
+search engines,learning algorithm,0.713928444
+rocchio,learning algorithm,0.712763644
+relevance feedback,learning algorithm,0.711887633
+retrieval model,web crawling,0.711816578
+recommender systems,learning algorithm,0.711640212
+mean average precision,geometric average precision,0.711086527
+search engines,ranking problem,0.711049401
+search engines,evaluation methodology,0.710740562
+search engines,push,0.710714305
+ranking function,bit vector,0.710304436
+machine learning,learning algorithm,0.70984127
+normalized discounted cumulative gain,learning algorithm,0.709383754
+relevant information,reciprocal rank,0.709095281
+ranking function,length normalization,0.708287534
+term frequency,tfidf,0.70719684
+search engines,recommender systems,0.705566614
+search engines,relevance judgments,0.705394784
+relevance judgments,statistical significance,0.705050505
+relevant information,cumulative gain,0.70483578
+querying,bit vector,0.702901779
+retrieval model,kullback leibler divergence,0.702664068
+querying,dirichlet prior,0.701144928
+search engines,machine learning,0.699007299
+querying,tfidf,0.698584979
+jelinek mercer smoothing,maximum likelihood estimate,0.697575758
+language models,conditional probability,0.696659987
+querying,document frequency,0.69654441
+querying,dot product,0.695039867
+rocchio,kullback leibler divergence,0.693302892
+precision recall,reciprocal rank,0.692204015
+ranking function,conditional probability,0.69172497
+precision recall,average precision,0.688247302
+mean average precision,binary coding,0.687408706
+retrieval model,information filtering,0.687147266
+retrieval model,google file system,0.686441799
+retrieval model,rocchio,0.685376048
+geometric average precision,reciprocal rank,0.684389307
+ranking function,dot product,0.684257237
+ranking function,reciprocal rank,0.683880503
+probabilistic retrieval,kullback leibler divergence,0.683560754
+retrieval model,relevance feedback,0.683029449
+querying,length normalization,0.681730754
+relevant information,pseudo relevance feedback,0.680998895
+retrieval model,maximum likelihood estimate,0.680407247
+retrieval model,mapreduce framework,0.6789086
+retrieval model,implicit feedback,0.678861174
+ranking function,kullback leibler divergence,0.67675421
+retrieval model,pseudo relevance feedback,0.676477072
+normalized discounted cumulative gain,statistical significance,0.675516224
+jelinek mercer smoothing,kullback leibler divergence,0.675225944
+relevant information,kullback leibler divergence,0.673868738
+inverse document frequency,google file system,0.673039356
+relevant information,utility function,0.67231622
+probabilistic retrieval,dirichlet prior,0.672230916
+probabilistic retrieval,maximum likelihood estimate,0.671773288
+evaluation methodology,statistical significance,0.671292572
+retrieval model,probabilistic retrieval,0.667752001
+push,information filtering,0.666666667
+push,probability ranking principle,0.666666667
+retrieval model,f measure,0.666666667
+natural language processing,probability ranking principle,0.666666667
+mean average precision,statistical significance,0.666666667
+mean average precision,cumulative gain,0.666666667
+relevance feedback,kullback leibler divergence,0.666666667
+recommender systems,information filtering,0.666666667
+maximum likelihood estimate,kullback leibler divergence,0.666666667
+implicit feedback,kullback leibler divergence,0.666666667
+probabilistic retrieval,smoothing methods,0.666666667
+information access,probability ranking principle,0.666666667
+term frequency,kullback leibler divergence,0.666666667
+querying,probability ranking principle,0.666666667
+ranking problem,information filtering,0.666666667
+search engines,statistical significance,0.666666667
+search engines,f measure,0.666666667
+learning to rank,learning algorithm,0.666666667
+relevant information,information filtering,0.666666667
+pseudo relevance feedback,kullback leibler divergence,0.666666667
+test collection,statistical significance,0.666138125
+normalized discounted cumulative gain,machine learning,0.664836601
+retrieval model,inverted index,0.66378339
+smoothing methods,dirichlet prior,0.654687576
+relevance feedback,rocchio,0.653526494
+vector space model,dot product,0.645591697
+retrieval model,push,0.633284094
+querying,information access,0.632006528
+retrieval model,recommender systems,0.627513228
+ranking function,tfidf,0.621762848
+search engines,precision recall,0.619042796
+link analysis,pagerank,0.612677114
+ranking function,document frequency,0.60880339
+recommender systems,collaborative filtering algorithm,0.608465608
+language models,smoothing methods,0.608155601
+retrieval model,information access,0.607201646
+mean average precision,normalized discounted cumulative gain,0.606610129
+relevant information,test collection,0.606156118
+ranking function,relevance judgments,0.602338829
+search engines,anchor text,0.601660908
+bm25,learning to rank,0.59899447
